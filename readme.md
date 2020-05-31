@@ -5,6 +5,7 @@ capacitance.
 # Probe Testing
 
 Connected multimeter to the 3 different probe designs as follows:
+
 Extech 470 -> dual banana jack -> ~6" dupont M-F hookup wire -> header on
 probe soldered to `In+` and `GND`.  This setup with no probe measured 0.18nF.
 
